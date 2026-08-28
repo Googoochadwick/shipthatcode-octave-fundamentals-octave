@@ -1,11 +1,11 @@
-n = str2double(input("", "s"));
-if mod(n, 15) == 0
-    disp('FizzBuzz')
-elseif mod(n, 5) == 0
-    disp('Buzz')
-elseif mod(n, 3) == 0
-    disp('Fizz')
-else
-    disp(n)
-endif
+n = input("");
 
+if mod(n, 15) == 0
+    printf("FizzBuzz\n");
+elseif mod(n, 5) == 0
+    printf("Buzz\n");
+elseif mod(n, 3) == 0
+    printf("Fizz\n");
+else
+    printf("%d\n", n);
+endif
