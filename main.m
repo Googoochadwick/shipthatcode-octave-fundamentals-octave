@@ -1,6 +1,6 @@
 n = input("");
 line = input("", "s");
 v = str2num(line);
-printf("sum: %d\n", sum(n) )
-printf("mean: %.3f\n", mean (n))
-printf("max: %d\n", max(n))
+printf("sum: %d\n", sum(v) )
+printf("mean: %.3f\n", mean (v))
+printf("max: %d\n", max(v))
