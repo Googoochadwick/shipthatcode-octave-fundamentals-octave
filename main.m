@@ -1,3 +1,5 @@
-line = input("", "s");
-parts = strsplit(line, " ");
-printf("words: %d\n", length(parts));
+for i = 0:9
+    x = i * 0.1;
+    y = sin(x);
+    printf("%d: %.4f\n", i, y)
+endfor
