@@ -1,0 +1,38 @@
+{
+  "course": "octave-fundamentals",
+  "language": "octave",
+  "language_id": 66,
+  "entrypoint": "main.m",
+  "version": 1,
+  "content_hash": "d58646b9771e7479",
+  "lessons": [
+    {
+      "slug": "hello-octave",
+      "tests_hash": "f03797edbab9"
+    },
+    {
+      "slug": "vectors",
+      "tests_hash": "1e99d991053a"
+    },
+    {
+      "slug": "control",
+      "tests_hash": "1720a777f726"
+    },
+    {
+      "slug": "functions",
+      "tests_hash": "2ef2107d7b83"
+    },
+    {
+      "slug": "linear-algebra",
+      "tests_hash": "79edd55dc55e"
+    },
+    {
+      "slug": "strings",
+      "tests_hash": "56501584899c"
+    },
+    {
+      "slug": "ecosystem",
+      "tests_hash": "74db6e19cb19"
+    }
+  ]
+}
