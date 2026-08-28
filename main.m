@@ -6,6 +6,6 @@ elseif mod(n, 5) == 0
 elseif mod(n, 3) == 0
     disp('Fizz')
 else
-    disp('Error')
+    disp(n)
 endif
 
